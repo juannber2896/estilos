@@ -1,0 +1,52 @@
+/*
+Colores del sitio web
+primary: 0081C9
+secundary: 5BC0F8
+light: 86E5FF
+info: FFC93C
+*/
+
+.bg-primary{
+    background-color: #0081C9;
+}
+
+.text-light{
+    color:#86E5FF ;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-right{
+    text-align: center;
+}
+
+.text-secondary{
+    color: #5bc0f8 ;
+}
+
+.text-info{
+    color: #FFC93C;
+}
+
+.width-100{
+    width: 100px;
+}
+
+.bg-info{
+    background-color: #FFC93C;
+}
+
+.text-primary{
+    color: #0081C9;
+}
+
+.text-white{
+    color: white;
+}
+
+.table{
+    display: flex;
+    justify-content: center;
+}
